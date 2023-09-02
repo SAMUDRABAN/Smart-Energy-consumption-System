@@ -1,7 +1,6 @@
 # Smart-Energy-consumption-System
 
-You have shared a notebook code where you aim to predict smart energy consumption based on several factors. Here's a brief outline of what you are trying to achieve:
-
+We aim to predict smart energy consumption based on several factors:
 Data Loading and Preprocessing
 
 Mounting Google Drive to fetch data.
